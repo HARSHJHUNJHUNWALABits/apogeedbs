@@ -1,2 +1,1 @@
-# apogeedbs
-APOGEE PROJECT
+# APOGEE
